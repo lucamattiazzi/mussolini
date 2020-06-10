@@ -1,0 +1,15 @@
+{
+	"name": "mussolini",
+	"version": "25.4.45",
+	"description": "sets you in the typical mussolini position",
+	"license": "MIT",
+	"repository": "lucamattiazzi/mussolini",
+	"author": {
+		"name": "Luca Mattiazzi",
+		"email": "l.d.mattiazzi@gmail.com",
+		"url": "https://grokked.it"
+	},
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {}
+}
