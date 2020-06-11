@@ -1,6 +1,8 @@
 # mussolini
 Sets your page in the typical dictator position!
 
+![](oʇᴉuǝq.gif)
+
 To install:
 
 ```
